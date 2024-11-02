@@ -19,7 +19,7 @@ for firm in range(len(list)):
     tes = blp.bdh(stocklist, flds=[
         'RETURN_ON_ASSET',
         'CUR_RATIO',
-        'TOTAL_OPEX_AS_A_PERCENTAGE_SALES'
+        'TOTAL_OPEX_AS_A_PERCENTAGE_SALES',
         'BS_TOT_LIAB2',
         'TOTAL_EQUITY',
         'BS_TOT_ASSET',
